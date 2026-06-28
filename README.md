@@ -77,25 +77,15 @@ Currently Learning:
 <div align="center">
 
 <a href="https://github.com/oxyhydra/Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=oxyhydra&repo=YOUR_REPOSITORY&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=oxyhydra&repo=Portfolio&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/oxyhydra/OxyHydra-Pack">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=oxyhydra&repo=YOUR_REPOSITORY2&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=oxyhydra&repo=OxyHydra-Pack&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
 
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=oxyhydra&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
 
 ---
 
